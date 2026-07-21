@@ -291,3 +291,134 @@ while(alive){
 ---
 
 <!-- End of Part 1.1 -->
+<!-- ===================================================== -->
+<!--               🌸 GitHub Analytics 🌸                  -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bloomingcodeby-iffath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomingcodeby-iffath&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bloomingcodeby-iffath&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bloomingcodeby-iffath&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bloomingcodeby-iffath&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4"/>
+
+</div>
+
+---
+
+# 🌸 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bloomingcodeby-iffath&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📌 Pinned Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎥 UniTube
+
+University Course Video Library
+
+⭐ React
+
+⭐ FastAPI
+
+⭐ MySQL
+
+</td>
+
+<td width="50%">
+
+### 🤖 MNIST CNN
+
+Handwritten Digit Recognition
+
+⭐ Python
+
+⭐ TensorFlow
+
+⭐ CNN
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Java Swing
+
+Desktop Applications
+
+Java
+
+Swing
+
+</td>
+
+<td width="50%">
+
+### 🌐 Web Development
+
+Responsive Web Applications
+
+React
+
+FastAPI
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💜 Philosophy
+
+<div align="center">
+
+> **"Every commit is a small step toward becoming the developer I aspire to be."**
+
+</div>
+
+---
