@@ -20,7 +20,7 @@
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+</div>
 # 🌸 About Me
 
 <img align="right" width="330" src="YOUR_GIRLY_IMAGE"/>
