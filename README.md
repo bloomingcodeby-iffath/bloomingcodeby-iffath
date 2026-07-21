@@ -9,6 +9,17 @@
 
 ### 🌸 Blooming into a Better Developer Every Day
 
+<a href="https://github.com/bloomingcodeby-iffath">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 # 🌸 About Me
 
@@ -42,7 +53,7 @@ Keep Learning 🌸
 
 ---
 
-## 🌸 About Me
+## 🌸More about
 
 💜 AI & Machine Learning Enthusiast
 
