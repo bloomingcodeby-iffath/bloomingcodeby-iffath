@@ -122,7 +122,7 @@ while(alive){
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </div>
----
+</div>
 
 # 🌸 Developer Profile
 
