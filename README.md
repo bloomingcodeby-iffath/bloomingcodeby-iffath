@@ -139,5 +139,155 @@ while(alive){
 </div>
 
 ---
+<!-- ====================================================== -->
+<!--                  💜 TECH STACK                         -->
+<!-- ====================================================== -->
+
+# 💜 Tech Universe
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark"/>
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark"/>
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark"/>
+
+</div>
+
+---
+
+# 🌸 Developer Profile
+
+| 🌸 Category | 💜 Details |
+|------------|-----------|
+| 💻 Languages | Java • Python • C++ • JavaScript |
+| 🌐 Frontend | HTML • CSS • React |
+| ⚙ Backend | FastAPI |
+| 🗄 Database | MySQL |
+| 🔧 Tools | Git • GitHub • VS Code |
+| 🤖 Interests | AI • ML • Computer Vision |
+| 🌱 Currently Exploring | Deep Learning |
+
+---
+
+# 🚀 Current Focus
+
+<div align="center">
+
+| 🌸 | Working On |
+|----|------------|
+| 🤖 | Machine Learning |
+| 👁️ | Computer Vision |
+| 🌐 | Full Stack Web Development |
+| 🧠 | Deep Learning |
+| 📚 | Data Structures & Algorithms |
+
+</div>
+
+---
+
+# 🌱 Learning Progress
+
+```text
+☕ Java
+
+████████████████████░░░░░ 85%
+
+🐍 Python
+
+██████████████████░░░░░░░ 80%
+
+🌐 React
+
+██████████████░░░░░░░░░░░ 65%
+
+🤖 Machine Learning
+
+████████████████░░░░░░░░░ 75%
+
+👁️ Computer Vision
+
+██████████░░░░░░░░░░░░░░░ 45%
+
+🧠 Deep Learning
+
+████████░░░░░░░░░░░░░░░░░ 35%
+```
+
+---
+
+# 🌸 What I'm Learning
+
+<div align="center">
+
+| 📚 | Topic |
+|----|-------|
+| 🌱 | Deep Learning |
+| 🤖 | Neural Networks |
+| 👁️ | OpenCV |
+| 🧠 | CNN |
+| 🌐 | React Ecosystem |
+| ⚡ | FastAPI |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build more AI projects
+- 🌸 Complete Computer Vision roadmap
+- 🌸 Learn PyTorch
+- 🌸 Improve DSA
+- 🌸 Contribute to Open Source
+- 🌸 Create a beautiful Portfolio Website
+- 🌸 Reach 1000+ GitHub Contributions
+
+---
+
+# 💡 Fun Facts
+
+🌸 I enjoy drawing peaceful scenery.
+
+🌱 Gardening helps me relax.
+
+📚 I love learning something new every day.
+
+☕ Coffee + Music + Coding = Perfect Combination.
+
+💜 I believe consistency beats talent.
+
+---
+
+<div align="center">
+
+## 🌸 Blooming One Commit at a Time 🌸
+
+</div>
+
+---
 
 <!-- End of Part 1.1 -->
