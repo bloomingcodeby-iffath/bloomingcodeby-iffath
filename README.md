@@ -152,7 +152,6 @@ while(alive){
 | 👁️ | Computer Vision |
 | 🌐 | Full Stack Web Development |
 | 🧠 | Deep Learning |
-| 📚 | Data Structures & Algorithms |
 
 </div>
 
@@ -180,7 +179,6 @@ while(alive){
 - ✅ Build more AI projects
 - 🌸 Complete Computer Vision roadmap
 - 🌸 Learn PyTorch
-- 🌸 Improve DSA
 - 🌸 Contribute to Open Source
 - 🌸 Create a beautiful Portfolio Website
 - 🌸 Reach 1000+ GitHub Contributions
