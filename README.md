@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/Gmail-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
-# 🌸About me
+
+# 🌸About me🌸
 
 <img align="right" width="330" src="YOUR_GIRLY_IMAGE"/>
 
