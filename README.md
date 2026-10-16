@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/iffath-sanjida-539a7a372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Iffath.s.222@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
