@@ -29,7 +29,6 @@
 <br><br>
 
 <!-- profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=bloomingcodeby-iffath&label=Garden%20Visitors&color=7F5AF0&style=for-the-badge"/>
 
 </div>
 
