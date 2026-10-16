@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:Iffath.s.222@gmail.com">
+<a href="Iffath.s.222@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
