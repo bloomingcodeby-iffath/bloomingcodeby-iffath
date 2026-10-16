@@ -2,10 +2,10 @@
 <!--           🌸 BLOOMING CODE BY IFFATH 🌸               -->
 <!-- ====================================================== -->
 
-<!-- Top banner: change the hex values inside customColorList to change the colors -->
+<!-- Top banner: change the hex values in color=0:HEX,50:HEX,100:HEX to change the gradient colors -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Iffath%20Sanjida&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blooming%20Code%20%E2%80%A2%20Blooming%20Developer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:B565E8,100:FF79C6&height=230&section=header&text=Iffath%20Sanjida&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blooming%20Code%20%E2%80%A2%20Blooming%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
 <!-- Typing animation: lines are separated by ; inside the lines= parameter -->
 <a href="https://github.com/bloomingcodeby-iffath">
@@ -34,7 +34,7 @@
 </div>
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 # 🌸 About Me 🌸
@@ -98,7 +98,7 @@ while (alive) {
 ```
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 # 💜 My Developer Mindset
@@ -120,7 +120,7 @@ while (alive) {
 </div>
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 # 🚀 Featured Projects ✨
@@ -214,7 +214,7 @@ Research project on **Speech Emotion Recognition** for a Sylheti, low-resource l
 🌐 **Web Development** — Responsive React projects
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 # 💜 Tech Universe
@@ -241,7 +241,7 @@ Research project on **Speech Emotion Recognition** for a Sylheti, low-resource l
 </div>
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 # 🎯 Current Focus & Learning
@@ -282,7 +282,7 @@ Research project on **Speech Emotion Recognition** for a Sylheti, low-resource l
 </div>
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 # 🏁 2026 Goals
@@ -302,7 +302,7 @@ Research project on **Speech Emotion Recognition** for a Sylheti, low-resource l
 - 🌸 Reach 1000+ GitHub Contributions
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 # 💡 Fun Facts
@@ -321,7 +321,7 @@ Research project on **Speech Emotion Recognition** for a Sylheti, low-resource l
 </div>
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 # 📊 GitHub Analytics
@@ -363,7 +363,7 @@ Research project on **Speech Emotion Recognition** for a Sylheti, low-resource l
 </div>
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,50:B565E8,100:FF79C6&height=4" width="100%"/></div>
 
 
 <div align="center">
@@ -374,6 +374,6 @@ Research project on **Speech Emotion Recognition** for a Sylheti, low-resource l
 
 💜 Keep Learning • Keep Building • Keep Blooming
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:B565E8,100:FF79C6&height=120&section=footer" width="100%"/>
 
 </div>
