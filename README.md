@@ -45,8 +45,8 @@
 
 ### 💜 Hello World!
 
-**Name:** Iffath Sanjida
-**Role:** Computer Science & Engineering Student
+**Name:** Iffath Sanjida<br>
+**Role:** Computer Science & Engineering Student<br>
 **University:** Metropolitan University, Sylhet
 
 **🌱 Currently exploring**
@@ -67,8 +67,8 @@
 </td>
 <td width="38%" align="center" valign="middle">
 
-<!-- Put the link to your own photo or illustration here (replace YOUR_IMAGE_LINK) -->
-<img src="YOUR_IMAGE_LINK" width="280"/>
+<!-- Illustration file lives in the assets folder. To use your own photo, upload it to assets/ and change the file name below -->
+<img src="assets/bloom.svg" width="280"/>
 
 </td>
 </tr>
