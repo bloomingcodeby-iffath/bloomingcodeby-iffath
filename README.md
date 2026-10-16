@@ -1,75 +1,90 @@
 <!-- ====================================================== -->
-<!--               🌸 BLOOMING CODE BY IFFATH 🌸            -->
+<!--           🌸 BLOOMING CODE BY IFFATH 🌸               -->
 <!-- ====================================================== -->
 
+<!-- Top banner: change the hex values inside customColorList to change the colors -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Iffath%20Sanjida&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blooming%20Code%20%E2%80%A2%20Blooming%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Iffath
+<!-- Typing animation: lines are separated by ; inside the lines= parameter -->
+<a href="https://github.com/bloomingcodeby-iffath">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=BB86FC&center=true&vCenter=true&width=620&lines=%F0%9F%8C%B8+CSE+Student+%7C+Metropolitan+University;%F0%9F%A4%96+Machine+Learning+%26+Computer+Vision;%F0%9F%8C%90+Full+Stack%3A+React+%2B+FastAPI;%F0%9F%8E%A4+Building+Sylheti+Emotion-Aware+AI;%F0%9F%8C%B1+Keep+Learning.+Keep+Blooming."/>
+</a>
 
-### 🌸 Blooming into a Better Developer Every Day
+<br><br>
 
+<!-- Social buttons -->
 <a href="https://github.com/bloomingcodeby-iffath">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/iffath-sanjida-539a7a372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="Iffath.s.222@gmail.com">
+<!-- The old link had no mailto:, so the Gmail button didn't work. Fixed now -->
+<a href="mailto:Iffath.s.222@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<!-- profile view counter -->
+<img src="https://komarev.com/ghpvc/?username=bloomingcodeby-iffath&label=Garden%20Visitors&color=7F5AF0&style=for-the-badge"/>
+
 </div>
 
-# 🌸About me🌸
 
-<img align="right" width="330" src="YOUR_GIRLY_IMAGE"/>
-
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
 
 
+# 🌸 About Me 🌸
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ### 💜 Hello World!
 
-Name: Iffath Sanjida
+**Name:** Iffath Sanjida
+**Role:** Computer Science & Engineering Student
+**University:** Metropolitan University, Sylhet
 
-Role:
-Computer Science Engineering Student
+**🌱 Currently exploring**
 
-Currently:
-• Machine Learning
-• Computer Vision
-• React
-• FastAPI
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- ⚛️ React
+- ⚡ FastAPI
 
-Interests:
-• Drawing
-• Gardening
-• Reading
+**🎨 Beyond code**
 
-Motto:
-Keep Learning 🌸
+- ✏️ Drawing
+- 🌿 Gardening
+- 📖 Reading
 
-<br>
+**Motto:** *Keep Learning* 🌸
 
----
+</td>
+<td width="38%" align="center" valign="middle">
 
-## 🌸More about
+<!-- Put the link to your own photo or illustration here (replace YOUR_IMAGE_LINK) -->
+<img src="YOUR_IMAGE_LINK" width="280"/>
 
-💜 AI & Machine Learning Enthusiast
+</td>
+</tr>
+</table>
 
+### 💫 More about me
+
+💜 AI & Machine Learning enthusiast
 🌱 Passionate about building useful software
-
 👩🏻‍💻 Love creating beautiful interfaces
-
 🎨 Drawing is my creative escape
-
 🌿 Gardening keeps me inspired
-
 📖 Always learning something new
 
 ```cpp
-while(alive){
+while (alive) {
 
     Learn();
 
@@ -82,7 +97,9 @@ while(alive){
 }
 ```
 
----
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+
 
 # 💜 My Developer Mindset
 
@@ -94,8 +111,6 @@ while(alive){
 
 > 🌱 Grow with patience.
 
----
-
 <div align="center">
 
 ## 🌸 Welcome to My GitHub Garden 🌸
@@ -104,14 +119,105 @@ while(alive){
 
 </div>
 
----
-<!-- ====================================================== -->
-<!--                  💜 TECH STACK                         -->
-<!-- ====================================================== -->
 
-# 💜 Tech Universe
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+
+
+# 🚀 Featured Projects ✨
+
+<!-- One card per project. Replace # with your repo or demo link -->
 
 <div align="center">
+
+<table>
+<tr>
+
+<!-- ============ MU Canteen Rush Predictor ============ -->
+<td width="50%" valign="top">
+
+### 🍽️ MU Canteen Rush Predictor
+*Know the crowd before you walk in*
+
+Predicts how crowded the Metropolitan University canteen will be, so students can pick the right time to go.
+
+<img src="https://img.shields.io/badge/Machine%20Learning-BB86FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prediction-7F5AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+[🔗 View Project](#)
+
+</td>
+
+<!-- ============ Street Food Quality Inspector ============ -->
+<td width="50%" valign="top">
+
+### 🍢 Street Food Quality Inspector
+*AI that checks Bangladeshi street food quality*
+
+EfficientNet-B0 image classifier covering **12 street food types** and **36 quality classes**, with about **77% test accuracy**. Live as a Gradio app on Hugging Face Spaces.
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-7F5AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
+[🔗 View Project](#)
+
+</td>
+
+</tr>
+<tr>
+
+<!-- ============ UniTube ============ -->
+<td width="50%" valign="top">
+
+### 🎥 UniTube
+*University course video library*
+
+A course video platform for a web programming course, migrated from PHP/MySQL to a **FARM-style stack**. JWT authentication and a dark/light theme toggle.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+[🔗 View Project](#)
+
+</td>
+
+<!-- ============ Paralanguage-Aware Virtual Assistant ============ -->
+<td width="50%" valign="top">
+
+### 🎙️ Paralanguage-Aware Virtual Assistant
+*Teaching assistants to hear emotion, not just words*
+
+Research project on **Speech Emotion Recognition** for a Sylheti, low-resource language setting, using SUBESCO and BanglaSER along with a custom dataset plan.
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN%20%2B%20LSTM-7F5AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/MFCC-BB86FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Librosa-009688?style=flat-square"/>
+
+🚧 *Currently working on this one*
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+### 🧠 More Projects
+
+💻 **Java Swing Applications** — Desktop applications
+🔢 **MNIST CNN** — Handwritten digit recognition
+🌐 **Web Development** — Responsive React projects
+
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+
+
+# 💜 Tech Universe
 
 <div align="center">
 
@@ -122,44 +228,43 @@ while(alive){
 <img src="https://skillicons.dev/icons?i=fastapi,mysql"/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
 </div>
-</div>
 
-# 🌸 Developer Profile
-
-## 💜 Tech Snapshot
-
-💻 Java
-
-🐍 Python
-
-⚛ React
-
-⚡ FastAPI
-
-🤖 Machine Learning
-
-👁 Computer Vision
----
-
-# 🚀 Current Focus
+### 💜 Tech Snapshot
 
 <div align="center">
 
-| 🌸 | Working On |
-|----|------------|
+| 💻 Java | 🐍 Python | ⚛️ React | ⚡ FastAPI | 🤖 Machine Learning | 👁️ Computer Vision |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+
+
+# 🎯 Current Focus & Learning
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" align="center" width="50%">
+
+### 🌸 Working On
+
+| 🌸 | Focus |
+|----|-------|
 | 🤖 | Machine Learning |
 | 👁️ | Computer Vision |
 | 🌐 | Full Stack Web Development |
 | 🧠 | Deep Learning |
 
-</div>
+</td>
+<td valign="top" align="center" width="50%">
 
----
-
-# 🌸 What I'm Learning
-
-<div align="center">
+### 📚 Learning
 
 | 📚 | Topic |
 |----|-------|
@@ -170,11 +275,24 @@ while(alive){
 | 🌐 | React Ecosystem |
 | ⚡ | FastAPI |
 
+</td>
+</tr>
+</table>
+
 </div>
 
----
 
-# 🎯 2026 Goals
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+
+
+# 🏁 2026 Goals
+
+<!-- Progress bar: change the number at the end of the URL (e.g. 25) to update the bar -->
+<div align="center">
+
+<img src="https://geps.dev/progress/25?dangerColor=BB86FC&warningColor=BB86FC&successColor=7F5AF0"/>
+
+</div>
 
 - ✅ Build more AI projects
 - 🌸 Complete Computer Vision roadmap
@@ -183,21 +301,18 @@ while(alive){
 - 🌸 Create a beautiful Portfolio Website
 - 🌸 Reach 1000+ GitHub Contributions
 
----
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+
 
 # 💡 Fun Facts
 
-## ☕ Beyond Coding
+### ☕ Beyond Coding
 
 🌸 I enjoy drawing peaceful scenery.
-
 🌿 Gardening makes me feel relaxed.
-
 📖 Reading helps me grow.
-
 ☕ Coffee and coding are my perfect combo.
-
----
 
 <div align="center">
 
@@ -205,75 +320,51 @@ while(alive){
 
 </div>
 
----
 
-## 🚀 Featured Projects
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
 
-🎥 UniTube
-> University Course Video Library
-
-🧠 MNIST CNN
-> Handwritten Digit Recognition
-
-💻 Java Swing Applications
-> Desktop Applications
-
-🌐 Web Development
-> Responsive React Projects
-<!-- End of Part 1.1 -->
-<!-- ===================================================== -->
-<!--               🌸 GitHub Analytics 🌸                  -->
-<!-- ===================================================== -->
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bloomingcodeby-iffath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bloomingcodeby-iffath&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=BB86FC&icon_color=FF79C6&text_color=E8DEFF&border_color=7F5AF0&border_radius=20"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomingcodeby-iffath&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloomingcodeby-iffath&layout=compact&bg_color=0D1117&title_color=BB86FC&text_color=E8DEFF&border_color=7F5AF0&border_radius=20"/>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bloomingcodeby-iffath&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=bloomingcodeby-iffath&background=0D1117&ring=BB86FC&fire=FF79C6&currStreakLabel=BB86FC&sideLabels=FF79C6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9B8FF&border=7F5AF0&borderRadius=20"/>
 
 </div>
 
----
-
-# 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bloomingcodeby-iffath&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bloomingcodeby-iffath&bg_color=0D1117&color=BB86FC&line=7F5AF0&point=FF79C6&area=true&area_color=7F5AF0&hide_border=true"/>
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
+### 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bloomingcodeby-iffath&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bloomingcodeby-iffath&theme=radical&no-frame=true&margin-w=12&margin-h=12&column=4"/>
 
 </div>
 
----
-
-# 🌸 Profile Summary
+### 🌸 Profile Summary
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bloomingcodeby-iffath&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bloomingcodeby-iffath&theme=dracula"/>
 
 </div>
 
----
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="100%"/></div>
+
 
 <div align="center">
 
@@ -283,5 +374,6 @@ while(alive){
 
 💜 Keep Learning • Keep Building • Keep Blooming
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+
 </div>
----
