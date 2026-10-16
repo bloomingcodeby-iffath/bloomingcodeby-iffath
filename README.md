@@ -68,7 +68,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- Illustration file lives in the assets folder. To use your own photo, upload it to assets/ and change the file name below -->
-<img src=bloom.svg" width="280"/>
+<img src="bloom.svg" width="280"/>
 
 </td>
 </tr>
